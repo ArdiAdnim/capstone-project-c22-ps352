@@ -1,4 +1,2 @@
-# capstone-project-c22-ps352
-
-Link to access dataset for Machine Learning in our Project: 
-https://drive.google.com/drive/folders/1jJkHmUGEuUaLBAxeuNIiDt6EXnn1Pkwr?usp=sharing
+# Machine Learning Path
+This repository contains the documentation of Machine Learning Capstone Project. Createad using Google Colaboratory. The datasets we use are: https://drive.google.com/drive/folders/1rf8irGomHdiqL0TC07MPsH38Z0vRjvgX?usp=sharing
